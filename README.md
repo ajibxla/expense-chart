@@ -1,4 +1,4 @@
-[live site here](https://fem-expense-tracker.netlify.app/)
+Click [here](https://fem-expense-tracker.netlify.app/) to visit the live site
 
 # Getting Started with Create React App
 
