@@ -1,4 +1,4 @@
-#Live site - fem-expense-tracker.netlify.app
+fem-expense-tracker.netlify.app
 
 # Getting Started with Create React App
 
